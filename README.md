@@ -1,2 +1,4 @@
 # GitHandbook
-Git主要使用方法
+### Git 安装
+> sudo apt-get install git
+
