@@ -8,3 +8,5 @@
 改动1
 
 dsadsdasd
+
+Creating a new branch is quick & simple.
