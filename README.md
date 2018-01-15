@@ -18,3 +18,5 @@ Creating a new branch is quick & simple.
 
 
 issue-1001问题修复
+
+v1.0版本更新
